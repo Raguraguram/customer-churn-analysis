@@ -1,0 +1,1001 @@
+CustomerID,Tenure,LastRechargeDays,ContractType,plan_type,Churn,Feedback
+1,38.0,2023-01-01,Retained,Postpaid,0,Poor customer service
+2,51.0,2023-01-02,Retained,Postpaid,0,Poor customer service
+3,,2023-01-03,Retained,Postpaid,0,Better offers from competitors
+4,14.0,,Retained,Prepaid,0,Service is too expensive
+5,42.0,,Retained,Postpaid,0,Service is too expensive
+6,7.0,2023-01-06,Churned,Prepaid,0,Network issues
+7,20.0,2023-01-07,Retained,Postpaid,1,Service is too expensive
+8,38.0,2023-01-08,Churned,Postpaid,0,Better offers from competitors
+9,57.0,2023-01-09,Churned,Prepaid,0,No specific reason
+10,18.0,2023-01-10,Retained,Postpaid,0,Network issues
+11,22.0,2023-01-11,Churned,Prepaid,0,Network issues
+12,10.0,2023-01-12,Retained,Prepaid,0,Poor customer service
+13,10.0,2023-01-13,Retained,Prepaid,1,Poor customer service
+14,23.0,2023-01-14,Retained,Prepaid,0,Service is too expensive
+15,52.0,2023-01-15,Churned,Postpaid,0,Network issues
+16,35.0,2023-01-16,Retained,Postpaid,0,Poor customer service
+17,39.0,2023-01-17,Churned,Prepaid,0,Better offers from competitors
+18,23.0,2023-01-18,Churned,Postpaid,0,Poor customer service
+19,2.0,2023-01-19,Retained,Postpaid,0,Moving to a different location
+20,21.0,2023-01-20,Churned,Prepaid,1,Moving to a different location
+21,52.0,2023-01-21,Retained,Postpaid,0,Poor customer service
+22,1.0,2023-01-22,Retained,Prepaid,0,Network issues
+23,23.0,2023-01-23,Retained,Prepaid,0,No specific reason
+24,,2023-01-24,Retained,Postpaid,1,No specific reason
+25,29.0,2023-01-25,Churned,Postpaid,0,Network issues
+26,37.0,2023-01-26,Retained,Postpaid,0,Not satisfied with the plan
+27,1.0,2023-01-27,Retained,Prepaid,0,No specific reason
+28,59.0,2023-01-28,Churned,Prepaid,0,Moving to a different location
+29,20.0,2023-01-29,Retained,Postpaid,0,Better offers from competitors
+30,32.0,2023-01-30,Retained,Postpaid,0,Network issues
+31,11.0,2023-01-31,Retained,Postpaid,0,Service is too expensive
+32,57.0,2023-02-01,Churned,Postpaid,0,Moving to a different location
+33,21.0,2023-02-02,Retained,Prepaid,1,Better offers from competitors
+34,43.0,2023-02-03,Churned,Postpaid,0,Better offers from competitors
+35,24.0,2023-02-04,Churned,Prepaid,0,Network issues
+36,48.0,2023-02-05,Retained,Prepaid,0,Better offers from competitors
+37,26.0,2023-02-06,Retained,Postpaid,0,Network issues
+38,58.0,2023-02-07,Retained,Postpaid,0,No specific reason
+39,41.0,,Retained,Postpaid,0,Poor customer service
+40,,2023-02-09,Retained,Prepaid,0,Moving to a different location
+41,59.0,2023-02-10,Retained,Postpaid,0,Not satisfied with the plan
+42,15.0,2023-02-11,Retained,Postpaid,0,Poor customer service
+43,14.0,2023-02-12,Retained,Prepaid,0,Moving to a different location
+44,46.0,2023-02-13,Retained,Postpaid,0,Network issues
+45,50.0,2023-02-14,Retained,Prepaid,0,Moving to a different location
+46,43.0,2023-02-15,Retained,Postpaid,0,No specific reason
+47,54.0,2023-02-16,Retained,Prepaid,0,Network issues
+48,51.0,2023-02-17,Retained,Postpaid,0,Poor customer service
+49,56.0,2023-02-18,Retained,Postpaid,0,Service is too expensive
+50,2.0,2023-02-19,Retained,Prepaid,0,Service is too expensive
+51,36.0,2023-02-20,Churned,Prepaid,0,Moving to a different location
+52,50.0,2023-02-21,Retained,Postpaid,0,Service is too expensive
+53,6.0,2023-02-22,Churned,Prepaid,0,Network issues
+54,20.0,2023-02-23,Retained,Prepaid,0,Better offers from competitors
+55,,2023-02-24,Retained,Prepaid,0,Network issues
+56,38.0,2023-02-25,Churned,Prepaid,0,Better offers from competitors
+57,17.0,2023-02-26,Retained,Postpaid,1,Poor customer service
+58,3.0,2023-02-27,Retained,Postpaid,0,Not satisfied with the plan
+59,,2023-02-28,Retained,Prepaid,0,Better offers from competitors
+60,59.0,,Retained,Prepaid,0,Service is too expensive
+61,13.0,2023-03-02,Retained,Prepaid,0,Network issues
+62,49.0,2023-03-03,Retained,Prepaid,0,Poor customer service
+63,57.0,2023-03-04,Churned,Postpaid,0,Service is too expensive
+64,8.0,2023-03-05,Retained,Postpaid,1,Poor customer service
+65,25.0,2023-03-06,Retained,Prepaid,0,Not satisfied with the plan
+66,52.0,2023-03-07,Retained,Prepaid,0,No specific reason
+67,1.0,2023-03-08,Retained,Prepaid,0,Network issues
+68,19.0,2023-03-09,Retained,Postpaid,0,Moving to a different location
+69,27.0,2023-03-10,Retained,Prepaid,0,Network issues
+70,46.0,2023-03-11,Retained,Postpaid,0,Not satisfied with the plan
+71,59.0,2023-03-12,Retained,Prepaid,1,Network issues
+72,6.0,2023-03-13,Retained,Postpaid,0,Moving to a different location
+73,43.0,2023-03-14,Retained,Prepaid,0,Better offers from competitors
+74,7.0,2023-03-15,Churned,Postpaid,1,Poor customer service
+75,46.0,2023-03-16,Retained,Prepaid,1,Moving to a different location
+76,34.0,2023-03-17,Retained,Prepaid,0,Service is too expensive
+77,13.0,,Churned,Prepaid,0,Not satisfied with the plan
+78,16.0,2023-03-19,Retained,Postpaid,0,Better offers from competitors
+79,35.0,2023-03-20,Churned,Prepaid,1,Service is too expensive
+80,49.0,2023-03-21,Retained,Postpaid,0,Service is too expensive
+81,39.0,2023-03-22,Churned,Postpaid,0,Not satisfied with the plan
+82,3.0,2023-03-23,Retained,Prepaid,0,Better offers from competitors
+83,1.0,2023-03-24,Churned,Prepaid,0,No specific reason
+84,5.0,2023-03-25,Retained,Prepaid,1,Service is too expensive
+85,53.0,2023-03-26,Retained,Postpaid,1,Service is too expensive
+86,41.0,2023-03-27,Retained,Prepaid,0,Better offers from competitors
+87,3.0,2023-03-28,Retained,Postpaid,0,Network issues
+88,53.0,2023-03-29,Churned,Postpaid,0,Service is too expensive
+89,28.0,2023-03-30,Churned,Prepaid,0,Poor customer service
+90,17.0,2023-03-31,Retained,Prepaid,0,Better offers from competitors
+91,25.0,,Churned,Prepaid,1,Service is too expensive
+92,43.0,2023-04-02,Retained,Prepaid,0,Not satisfied with the plan
+93,33.0,2023-04-03,Retained,Prepaid,0,Moving to a different location
+94,9.0,2023-04-04,Retained,Prepaid,1,Poor customer service
+95,35.0,2023-04-05,Churned,Postpaid,0,Moving to a different location
+96,13.0,2023-04-06,Retained,Postpaid,0,Moving to a different location
+97,30.0,2023-04-07,Retained,Postpaid,1,Service is too expensive
+98,47.0,2023-04-08,Churned,Prepaid,0,Poor customer service
+99,14.0,2023-04-09,Retained,Postpaid,0,Poor customer service
+100,7.0,2023-04-10,Retained,Postpaid,1,Network issues
+101,13.0,2023-04-11,Retained,Postpaid,1,Moving to a different location
+102,22.0,2023-04-12,Retained,Postpaid,0,Poor customer service
+103,59.0,2023-04-13,Retained,Postpaid,0,Network issues
+104,56.0,2023-04-14,Retained,Prepaid,0,Better offers from competitors
+105,39.0,2023-04-15,Retained,Prepaid,1,Network issues
+106,20.0,2023-04-16,Retained,Postpaid,1,Not satisfied with the plan
+107,15.0,2023-04-17,Retained,Postpaid,0,No specific reason
+108,44.0,2023-04-18,Churned,Postpaid,0,Service is too expensive
+109,17.0,2023-04-19,Retained,Prepaid,0,Better offers from competitors
+110,46.0,2023-04-20,Retained,Prepaid,0,No specific reason
+111,52.0,2023-04-21,Retained,Postpaid,0,No specific reason
+112,23.0,2023-04-22,Retained,Prepaid,0,Better offers from competitors
+113,25.0,2023-04-23,Retained,Prepaid,1,Not satisfied with the plan
+114,24.0,2023-04-24,Churned,Postpaid,0,Network issues
+115,59.0,2023-04-25,Retained,Prepaid,0,Service is too expensive
+116,59.0,2023-04-26,Retained,Prepaid,0,Network issues
+117,59.0,2023-04-27,Retained,Postpaid,0,Poor customer service
+118,44.0,2023-04-28,Retained,Prepaid,0,Network issues
+119,40.0,2023-04-29,Churned,Prepaid,0,Better offers from competitors
+120,28.0,2023-04-30,Retained,Postpaid,1,Service is too expensive
+121,14.0,2023-05-01,Retained,Prepaid,1,Network issues
+122,44.0,2023-05-02,Retained,Prepaid,0,Service is too expensive
+123,0.0,2023-05-03,Retained,Postpaid,0,Service is too expensive
+124,24.0,2023-05-04,Churned,Postpaid,0,Poor customer service
+125,6.0,2023-05-05,Retained,Postpaid,0,Poor customer service
+126,8.0,2023-05-06,Churned,Prepaid,0,Better offers from competitors
+127,23.0,2023-05-07,Retained,Postpaid,0,Not satisfied with the plan
+128,0.0,2023-05-08,Churned,Prepaid,0,No specific reason
+129,43.0,2023-05-09,Retained,Postpaid,0,Service is too expensive
+130,7.0,2023-05-10,Retained,Prepaid,0,Not satisfied with the plan
+131,23.0,,Retained,Postpaid,1,No specific reason
+132,10.0,2023-05-12,Churned,Postpaid,0,No specific reason
+133,50.0,,Churned,Postpaid,0,Better offers from competitors
+134,16.0,2023-05-14,Retained,Postpaid,0,No specific reason
+135,7.0,2023-05-15,Churned,Prepaid,1,No specific reason
+136,34.0,2023-05-16,Retained,Postpaid,0,Service is too expensive
+137,34.0,2023-05-17,Churned,Postpaid,0,Service is too expensive
+138,32.0,2023-05-18,Retained,Prepaid,0,Moving to a different location
+139,58.0,2023-05-19,Churned,Postpaid,0,Not satisfied with the plan
+140,4.0,2023-05-20,Churned,Prepaid,0,Network issues
+141,41.0,2023-05-21,Churned,Postpaid,0,Poor customer service
+142,38.0,2023-05-22,Retained,Postpaid,1,Network issues
+143,57.0,2023-05-23,Retained,Postpaid,0,Not satisfied with the plan
+144,40.0,2023-05-24,Churned,Prepaid,1,Poor customer service
+145,27.0,2023-05-25,Retained,Postpaid,0,Network issues
+146,6.0,2023-05-26,Churned,Postpaid,1,Moving to a different location
+147,8.0,2023-05-27,Churned,Postpaid,0,Poor customer service
+148,7.0,2023-05-28,Retained,Prepaid,1,Service is too expensive
+149,11.0,2023-05-29,Churned,Prepaid,0,Network issues
+150,33.0,2023-05-30,Retained,Postpaid,0,Poor customer service
+151,32.0,2023-05-31,Churned,Prepaid,0,Moving to a different location
+152,47.0,2023-06-01,Churned,Postpaid,0,No specific reason
+153,54.0,2023-06-02,Retained,Postpaid,0,Poor customer service
+154,,2023-06-03,Retained,Postpaid,0,Poor customer service
+155,23.0,2023-06-04,Churned,Postpaid,0,Moving to a different location
+156,36.0,2023-06-05,Retained,Postpaid,0,No specific reason
+157,34.0,2023-06-06,Retained,Postpaid,1,Network issues
+158,43.0,2023-06-07,Retained,Postpaid,0,Better offers from competitors
+159,39.0,2023-06-08,Retained,Prepaid,0,Network issues
+160,21.0,2023-06-09,Retained,Prepaid,0,No specific reason
+161,26.0,2023-06-10,Retained,Prepaid,0,Not satisfied with the plan
+162,34.0,2023-06-11,Retained,Prepaid,1,Moving to a different location
+163,0.0,2023-06-12,Retained,Prepaid,0,Network issues
+164,34.0,2023-06-13,Retained,Prepaid,0,Poor customer service
+165,36.0,2023-06-14,Retained,Prepaid,1,Moving to a different location
+166,46.0,2023-06-15,Retained,Postpaid,1,Service is too expensive
+167,13.0,2023-06-16,Retained,Postpaid,0,No specific reason
+168,2.0,2023-06-17,Retained,Postpaid,1,Network issues
+169,0.0,2023-06-18,Retained,Postpaid,1,Moving to a different location
+170,4.0,2023-06-19,Churned,Prepaid,0,Network issues
+171,25.0,2023-06-20,Retained,Prepaid,0,Moving to a different location
+172,54.0,2023-06-21,Churned,Postpaid,0,Poor customer service
+173,13.0,2023-06-22,Churned,Postpaid,0,Service is too expensive
+174,38.0,2023-06-23,Retained,Prepaid,0,Service is too expensive
+175,26.0,2023-06-24,Churned,Postpaid,0,Not satisfied with the plan
+176,8.0,2023-06-25,Churned,Postpaid,0,Moving to a different location
+177,14.0,2023-06-26,Retained,Postpaid,0,Network issues
+178,,,Retained,Postpaid,0,Service is too expensive
+179,25.0,2023-06-28,Churned,Prepaid,0,No specific reason
+180,41.0,2023-06-29,Churned,Postpaid,0,Service is too expensive
+181,59.0,2023-06-30,Retained,Postpaid,0,Better offers from competitors
+182,12.0,2023-07-01,Churned,Prepaid,0,Better offers from competitors
+183,50.0,2023-07-02,Churned,Prepaid,1,Service is too expensive
+184,31.0,2023-07-03,Churned,Postpaid,0,Moving to a different location
+185,38.0,2023-07-04,Churned,Prepaid,0,Not satisfied with the plan
+186,48.0,2023-07-05,Churned,Postpaid,0,Service is too expensive
+187,51.0,2023-07-06,Retained,Postpaid,0,Poor customer service
+188,31.0,2023-07-07,Retained,Prepaid,0,Network issues
+189,3.0,2023-07-08,Retained,Postpaid,1,Not satisfied with the plan
+190,29.0,2023-07-09,Churned,Postpaid,1,Poor customer service
+191,36.0,2023-07-10,Retained,Postpaid,0,Not satisfied with the plan
+192,22.0,2023-07-11,Retained,Postpaid,0,Poor customer service
+193,38.0,2023-07-12,Retained,Prepaid,1,Network issues
+194,44.0,2023-07-13,Retained,Prepaid,0,Network issues
+195,14.0,2023-07-14,Churned,Postpaid,0,Better offers from competitors
+196,42.0,2023-07-15,Churned,Prepaid,1,Moving to a different location
+197,28.0,2023-07-16,Retained,Postpaid,0,Poor customer service
+198,35.0,2023-07-17,Retained,Postpaid,0,Better offers from competitors
+199,12.0,2023-07-18,Retained,Postpaid,0,Poor customer service
+200,31.0,2023-07-19,Retained,Postpaid,0,Better offers from competitors
+201,6.0,2023-07-20,Retained,Postpaid,0,Network issues
+202,58.0,2023-07-21,Retained,Prepaid,0,Not satisfied with the plan
+203,50.0,2023-07-22,Retained,Postpaid,0,No specific reason
+204,21.0,,Retained,Prepaid,0,Better offers from competitors
+205,27.0,2023-07-24,Retained,Prepaid,0,Poor customer service
+206,1.0,2023-07-25,Retained,Postpaid,0,Poor customer service
+207,41.0,2023-07-26,Retained,Postpaid,0,No specific reason
+208,44.0,2023-07-27,Retained,Postpaid,0,Moving to a different location
+209,56.0,2023-07-28,Churned,Postpaid,1,Network issues
+210,52.0,2023-07-29,Retained,Postpaid,0,Poor customer service
+211,5.0,2023-07-30,Retained,Prepaid,1,Service is too expensive
+212,27.0,2023-07-31,Churned,Postpaid,0,Not satisfied with the plan
+213,27.0,2023-08-01,Retained,Postpaid,0,Better offers from competitors
+214,43.0,2023-08-02,Churned,Prepaid,0,Moving to a different location
+215,43.0,2023-08-03,Retained,Prepaid,1,No specific reason
+216,19.0,2023-08-04,Churned,Postpaid,0,Not satisfied with the plan
+217,29.0,2023-08-05,Churned,Prepaid,0,Network issues
+218,10.0,,Churned,Postpaid,0,Moving to a different location
+219,57.0,2023-08-07,Churned,Prepaid,0,Better offers from competitors
+220,54.0,2023-08-08,Retained,Prepaid,0,Better offers from competitors
+221,27.0,2023-08-09,Retained,Postpaid,1,No specific reason
+222,24.0,2023-08-10,Churned,Prepaid,0,Service is too expensive
+223,38.0,,Retained,Prepaid,0,No specific reason
+224,32.0,2023-08-12,Churned,Prepaid,0,Network issues
+225,0.0,2023-08-13,Retained,Prepaid,0,Moving to a different location
+226,56.0,2023-08-14,Retained,Prepaid,0,Moving to a different location
+227,26.0,2023-08-15,Retained,Prepaid,0,Poor customer service
+228,56.0,2023-08-16,Retained,Postpaid,0,Service is too expensive
+229,51.0,2023-08-17,Retained,Postpaid,1,Service is too expensive
+230,12.0,2023-08-18,Retained,Prepaid,0,Moving to a different location
+231,40.0,2023-08-19,Retained,Postpaid,0,Moving to a different location
+232,2.0,2023-08-20,Retained,Postpaid,0,Not satisfied with the plan
+233,38.0,2023-08-21,Retained,Postpaid,1,Not satisfied with the plan
+234,,2023-08-22,Churned,Prepaid,0,Not satisfied with the plan
+235,7.0,,Retained,Postpaid,0,Service is too expensive
+236,26.0,2023-08-24,Retained,Prepaid,1,Poor customer service
+237,8.0,2023-08-25,Retained,Postpaid,0,Better offers from competitors
+238,36.0,2023-08-26,Churned,Prepaid,0,Not satisfied with the plan
+239,32.0,2023-08-27,Retained,Prepaid,0,Poor customer service
+240,50.0,2023-08-28,Churned,Postpaid,1,No specific reason
+241,41.0,2023-08-29,Churned,Postpaid,0,Network issues
+242,43.0,2023-08-30,Retained,Prepaid,0,Not satisfied with the plan
+243,23.0,2023-08-31,Retained,Postpaid,0,No specific reason
+244,14.0,2023-09-01,Retained,Postpaid,0,Better offers from competitors
+245,58.0,2023-09-02,Retained,Postpaid,0,Network issues
+246,53.0,2023-09-03,Retained,Prepaid,0,Network issues
+247,31.0,2023-09-04,Churned,Prepaid,0,Better offers from competitors
+248,31.0,2023-09-05,Retained,Postpaid,0,Not satisfied with the plan
+249,23.0,2023-09-06,Retained,Postpaid,0,Service is too expensive
+250,40.0,2023-09-07,Retained,Postpaid,0,Better offers from competitors
+251,51.0,2023-09-08,Churned,Prepaid,1,Better offers from competitors
+252,48.0,2023-09-09,Retained,Prepaid,0,Better offers from competitors
+253,48.0,2023-09-10,Retained,Postpaid,1,Network issues
+254,57.0,2023-09-11,Churned,Postpaid,1,Poor customer service
+255,51.0,2023-09-12,Churned,Postpaid,0,No specific reason
+256,11.0,2023-09-13,Retained,Postpaid,0,Service is too expensive
+257,38.0,2023-09-14,Retained,Postpaid,0,Not satisfied with the plan
+258,1.0,2023-09-15,Churned,Postpaid,0,Not satisfied with the plan
+259,2.0,2023-09-16,Retained,Prepaid,0,No specific reason
+260,48.0,2023-09-17,Retained,Postpaid,0,Poor customer service
+261,36.0,2023-09-18,Retained,Prepaid,0,Better offers from competitors
+262,48.0,2023-09-19,Retained,Postpaid,1,Service is too expensive
+263,55.0,2023-09-20,Churned,Postpaid,0,Not satisfied with the plan
+264,16.0,2023-09-21,Churned,Prepaid,1,No specific reason
+265,58.0,2023-09-22,Retained,Prepaid,0,Moving to a different location
+266,48.0,2023-09-23,Retained,Prepaid,1,No specific reason
+267,1.0,2023-09-24,Retained,Prepaid,0,Not satisfied with the plan
+268,1.0,2023-09-25,Retained,Postpaid,0,Better offers from competitors
+269,27.0,2023-09-26,Churned,Prepaid,0,Moving to a different location
+270,53.0,2023-09-27,Retained,Postpaid,0,Poor customer service
+271,22.0,2023-09-28,Retained,Prepaid,0,Service is too expensive
+272,36.0,2023-09-29,Retained,Postpaid,1,Poor customer service
+273,31.0,2023-09-30,Retained,Postpaid,0,Poor customer service
+274,32.0,2023-10-01,Retained,Postpaid,0,No specific reason
+275,0.0,2023-10-02,Churned,Postpaid,0,Service is too expensive
+276,18.0,2023-10-03,Retained,Postpaid,1,Service is too expensive
+277,1.0,2023-10-04,Churned,Postpaid,0,Not satisfied with the plan
+278,52.0,2023-10-05,Retained,Prepaid,0,Not satisfied with the plan
+279,43.0,2023-10-06,Retained,Postpaid,0,Service is too expensive
+280,25.0,2023-10-07,Retained,Prepaid,0,Moving to a different location
+281,31.0,2023-10-08,Churned,Prepaid,0,Network issues
+282,5.0,2023-10-09,Churned,Postpaid,1,Not satisfied with the plan
+283,31.0,2023-10-10,Retained,Prepaid,0,Network issues
+284,54.0,2023-10-11,Retained,Postpaid,1,No specific reason
+285,3.0,2023-10-12,Churned,Prepaid,0,Moving to a different location
+286,54.0,2023-10-13,Retained,Postpaid,0,Service is too expensive
+287,10.0,2023-10-14,Retained,Prepaid,1,Moving to a different location
+288,55.0,2023-10-15,Churned,Postpaid,0,Not satisfied with the plan
+289,58.0,2023-10-16,Retained,Postpaid,1,Poor customer service
+290,16.0,2023-10-17,Retained,Postpaid,0,No specific reason
+291,37.0,2023-10-18,Retained,Postpaid,0,Service is too expensive
+292,23.0,2023-10-19,Retained,Prepaid,1,Better offers from competitors
+293,4.0,2023-10-20,Retained,Postpaid,0,No specific reason
+294,51.0,2023-10-21,Churned,Prepaid,0,Network issues
+295,33.0,2023-10-22,Retained,Prepaid,0,Moving to a different location
+296,5.0,2023-10-23,Retained,Prepaid,0,Service is too expensive
+297,,2023-10-24,Retained,Postpaid,1,No specific reason
+298,10.0,2023-10-25,Retained,Prepaid,0,Moving to a different location
+299,47.0,2023-10-26,Churned,Prepaid,0,Service is too expensive
+300,15.0,2023-10-27,Retained,Prepaid,0,Not satisfied with the plan
+301,32.0,2023-10-28,Retained,Postpaid,0,No specific reason
+302,8.0,2023-10-29,Churned,Postpaid,0,Not satisfied with the plan
+303,59.0,2023-10-30,Retained,Prepaid,0,No specific reason
+304,58.0,2023-10-31,Retained,Postpaid,1,Not satisfied with the plan
+305,5.0,2023-11-01,Retained,Postpaid,0,Moving to a different location
+306,15.0,2023-11-02,Retained,Prepaid,0,Better offers from competitors
+307,28.0,2023-11-03,Retained,Prepaid,0,No specific reason
+308,2.0,2023-11-04,Retained,Postpaid,0,No specific reason
+309,19.0,2023-11-05,Churned,Prepaid,0,Not satisfied with the plan
+310,59.0,2023-11-06,Retained,Postpaid,0,Service is too expensive
+311,58.0,2023-11-07,Retained,Postpaid,0,No specific reason
+312,35.0,2023-11-08,Retained,Postpaid,0,Not satisfied with the plan
+313,18.0,2023-11-09,Retained,Postpaid,0,Poor customer service
+314,25.0,2023-11-10,Churned,Postpaid,1,Not satisfied with the plan
+315,2.0,2023-11-11,Retained,Postpaid,1,Moving to a different location
+316,18.0,2023-11-12,Retained,Prepaid,1,Better offers from competitors
+317,19.0,2023-11-13,Churned,Prepaid,0,Poor customer service
+318,31.0,2023-11-14,Retained,Postpaid,0,Moving to a different location
+319,6.0,2023-11-15,Retained,Postpaid,0,Moving to a different location
+320,,2023-11-16,Retained,Postpaid,0,Moving to a different location
+321,40.0,2023-11-17,Retained,Prepaid,0,Service is too expensive
+322,32.0,2023-11-18,Churned,Postpaid,1,Moving to a different location
+323,39.0,2023-11-19,Retained,Prepaid,1,Service is too expensive
+324,38.0,2023-11-20,Retained,Postpaid,0,Moving to a different location
+325,17.0,2023-11-21,Retained,Postpaid,0,Network issues
+326,39.0,2023-11-22,Churned,Prepaid,1,Poor customer service
+327,0.0,2023-11-23,Retained,Prepaid,0,Network issues
+328,10.0,2023-11-24,Churned,Postpaid,0,Moving to a different location
+329,27.0,2023-11-25,Retained,Postpaid,1,Poor customer service
+330,56.0,2023-11-26,Churned,Postpaid,0,Poor customer service
+331,24.0,2023-11-27,Churned,Prepaid,0,No specific reason
+332,49.0,2023-11-28,Churned,Prepaid,0,Better offers from competitors
+333,22.0,2023-11-29,Churned,Prepaid,1,Network issues
+334,30.0,2023-11-30,Retained,Prepaid,0,Better offers from competitors
+335,29.0,2023-12-01,Retained,Prepaid,0,Poor customer service
+336,41.0,2023-12-02,Retained,Prepaid,0,Service is too expensive
+337,34.0,2023-12-03,Retained,Postpaid,0,Poor customer service
+338,6.0,2023-12-04,Retained,Postpaid,0,Better offers from competitors
+339,59.0,2023-12-05,Retained,Prepaid,0,Network issues
+340,15.0,2023-12-06,Retained,Postpaid,0,Moving to a different location
+341,25.0,2023-12-07,Retained,Postpaid,1,No specific reason
+342,47.0,2023-12-08,Churned,Prepaid,0,No specific reason
+343,56.0,2023-12-09,Retained,Postpaid,0,No specific reason
+344,51.0,2023-12-10,Churned,Prepaid,0,Moving to a different location
+345,59.0,2023-12-11,Churned,Prepaid,0,No specific reason
+346,48.0,2023-12-12,Churned,Postpaid,0,Network issues
+347,1.0,2023-12-13,Retained,Prepaid,0,Moving to a different location
+348,0.0,2023-12-14,Churned,Prepaid,0,No specific reason
+349,47.0,2023-12-15,Churned,Prepaid,0,Moving to a different location
+350,11.0,2023-12-16,Churned,Prepaid,0,Better offers from competitors
+351,4.0,2023-12-17,Retained,Prepaid,0,Network issues
+352,36.0,2023-12-18,Retained,Prepaid,1,Not satisfied with the plan
+353,31.0,2023-12-19,Retained,Prepaid,0,Service is too expensive
+354,58.0,2023-12-20,Retained,Prepaid,0,No specific reason
+355,54.0,2023-12-21,Retained,Postpaid,0,Service is too expensive
+356,8.0,2023-12-22,Churned,Postpaid,0,Moving to a different location
+357,40.0,2023-12-23,Churned,Postpaid,0,Service is too expensive
+358,34.0,2023-12-24,Retained,Prepaid,0,Network issues
+359,18.0,2023-12-25,Churned,Prepaid,0,Network issues
+360,47.0,2023-12-26,Retained,Postpaid,0,Poor customer service
+361,15.0,2023-12-27,Churned,Postpaid,1,No specific reason
+362,2.0,2023-12-28,Churned,Postpaid,0,Poor customer service
+363,19.0,2023-12-29,Retained,Prepaid,1,Service is too expensive
+364,23.0,2023-12-30,Retained,Postpaid,0,Not satisfied with the plan
+365,53.0,2023-12-31,Churned,Postpaid,0,Poor customer service
+366,55.0,2024-01-01,Retained,Prepaid,0,Poor customer service
+367,32.0,2024-01-02,Retained,Postpaid,0,Network issues
+368,23.0,2024-01-03,Churned,Prepaid,1,Not satisfied with the plan
+369,51.0,2024-01-04,Retained,Prepaid,0,Moving to a different location
+370,10.0,2024-01-05,Churned,Prepaid,1,Service is too expensive
+371,48.0,2024-01-06,Retained,Postpaid,0,Poor customer service
+372,7.0,2024-01-07,Churned,Postpaid,0,Not satisfied with the plan
+373,35.0,2024-01-08,Retained,Prepaid,0,No specific reason
+374,37.0,2024-01-09,Churned,Postpaid,0,Not satisfied with the plan
+375,39.0,2024-01-10,Churned,Postpaid,1,Service is too expensive
+376,19.0,2024-01-11,Retained,Postpaid,0,Not satisfied with the plan
+377,34.0,2024-01-12,Retained,Postpaid,0,Not satisfied with the plan
+378,47.0,2024-01-13,Churned,Prepaid,0,Not satisfied with the plan
+379,24.0,2024-01-14,Retained,Postpaid,0,No specific reason
+380,34.0,2024-01-15,Retained,Prepaid,0,Poor customer service
+381,24.0,2024-01-16,Retained,Prepaid,0,Service is too expensive
+382,28.0,2024-01-17,Retained,Postpaid,1,No specific reason
+383,17.0,2024-01-18,Churned,Prepaid,0,Not satisfied with the plan
+384,45.0,2024-01-19,Retained,Postpaid,0,Not satisfied with the plan
+385,17.0,2024-01-20,Retained,Postpaid,0,Poor customer service
+386,1.0,2024-01-21,Retained,Prepaid,0,Service is too expensive
+387,53.0,2024-01-22,Retained,Prepaid,1,Network issues
+388,34.0,2024-01-23,Retained,Prepaid,0,No specific reason
+389,15.0,2024-01-24,Retained,Prepaid,0,Poor customer service
+390,40.0,2024-01-25,Churned,Postpaid,0,Service is too expensive
+391,35.0,2024-01-26,Retained,Postpaid,0,No specific reason
+392,32.0,2024-01-27,Retained,Postpaid,0,Not satisfied with the plan
+393,3.0,2024-01-28,Churned,Prepaid,1,Service is too expensive
+394,32.0,2024-01-29,Retained,Prepaid,0,Service is too expensive
+395,13.0,2024-01-30,Churned,Prepaid,1,Moving to a different location
+396,20.0,2024-01-31,Retained,Postpaid,0,Service is too expensive
+397,47.0,2024-02-01,Retained,Prepaid,0,Network issues
+398,19.0,2024-02-02,Retained,Postpaid,0,Service is too expensive
+399,55.0,2024-02-03,Retained,Prepaid,0,Network issues
+400,7.0,2024-02-04,Churned,Postpaid,1,Not satisfied with the plan
+401,6.0,2024-02-05,Retained,Postpaid,0,Network issues
+402,2.0,2024-02-06,Retained,Prepaid,1,No specific reason
+403,16.0,2024-02-07,Retained,Prepaid,0,Not satisfied with the plan
+404,32.0,,Retained,Postpaid,0,Not satisfied with the plan
+405,47.0,2024-02-09,Churned,Postpaid,0,Network issues
+406,11.0,,Retained,Prepaid,0,Poor customer service
+407,58.0,2024-02-11,Retained,Prepaid,0,Better offers from competitors
+408,50.0,2024-02-12,Retained,Postpaid,1,Service is too expensive
+409,21.0,2024-02-13,Retained,Prepaid,0,Moving to a different location
+410,54.0,2024-02-14,Churned,Postpaid,0,Better offers from competitors
+411,21.0,2024-02-15,Retained,Postpaid,0,Service is too expensive
+412,45.0,2024-02-16,Churned,Prepaid,1,Service is too expensive
+413,29.0,2024-02-17,Retained,Prepaid,0,Not satisfied with the plan
+414,37.0,2024-02-18,Retained,Prepaid,1,Service is too expensive
+415,37.0,2024-02-19,Churned,Prepaid,0,Moving to a different location
+416,44.0,2024-02-20,Retained,Prepaid,0,Service is too expensive
+417,50.0,2024-02-21,Retained,Postpaid,0,Network issues
+418,53.0,2024-02-22,Churned,Postpaid,0,Better offers from competitors
+419,7.0,2024-02-23,Retained,Prepaid,0,Network issues
+420,26.0,2024-02-24,Churned,Prepaid,0,Moving to a different location
+421,26.0,2024-02-25,Retained,Prepaid,0,Service is too expensive
+422,33.0,2024-02-26,Churned,Postpaid,0,No specific reason
+423,20.0,2024-02-27,Churned,Prepaid,0,Moving to a different location
+424,29.0,2024-02-28,Retained,Prepaid,1,Not satisfied with the plan
+425,32.0,2024-02-29,Churned,Postpaid,0,Network issues
+426,27.0,2024-03-01,Retained,Postpaid,1,Network issues
+427,46.0,2024-03-02,Churned,Prepaid,0,Poor customer service
+428,32.0,2024-03-03,Retained,Prepaid,0,Service is too expensive
+429,4.0,2024-03-04,Retained,Prepaid,0,Not satisfied with the plan
+430,59.0,2024-03-05,Retained,Postpaid,0,No specific reason
+431,47.0,2024-03-06,Retained,Prepaid,0,Network issues
+432,18.0,2024-03-07,Retained,Prepaid,0,Network issues
+433,3.0,2024-03-08,Churned,Prepaid,0,Not satisfied with the plan
+434,34.0,2024-03-09,Churned,Postpaid,0,Moving to a different location
+435,48.0,2024-03-10,Churned,Postpaid,0,Moving to a different location
+436,16.0,2024-03-11,Retained,Prepaid,0,Service is too expensive
+437,,2024-03-12,Retained,Prepaid,0,Poor customer service
+438,27.0,2024-03-13,Retained,Postpaid,0,Network issues
+439,29.0,2024-03-14,Retained,Postpaid,1,Poor customer service
+440,28.0,2024-03-15,Retained,Postpaid,1,Moving to a different location
+441,,2024-03-16,Retained,Postpaid,0,Moving to a different location
+442,52.0,2024-03-17,Churned,Postpaid,0,Better offers from competitors
+443,5.0,2024-03-18,Retained,Postpaid,0,No specific reason
+444,34.0,2024-03-19,Retained,Postpaid,0,Service is too expensive
+445,59.0,2024-03-20,Retained,Postpaid,0,Better offers from competitors
+446,40.0,2024-03-21,Retained,Postpaid,0,No specific reason
+447,36.0,2024-03-22,Retained,Prepaid,0,Better offers from competitors
+448,23.0,2024-03-23,Churned,Prepaid,0,Better offers from competitors
+449,28.0,2024-03-24,Retained,Prepaid,0,Service is too expensive
+450,48.0,2024-03-25,Retained,Postpaid,0,Service is too expensive
+451,45.0,2024-03-26,Retained,Prepaid,1,Not satisfied with the plan
+452,52.0,2024-03-27,Churned,Postpaid,0,Poor customer service
+453,30.0,2024-03-28,Churned,Postpaid,0,Poor customer service
+454,34.0,,Churned,Prepaid,1,Not satisfied with the plan
+455,59.0,2024-03-30,Retained,Postpaid,0,Not satisfied with the plan
+456,32.0,2024-03-31,Retained,Prepaid,0,Moving to a different location
+457,51.0,2024-04-01,Retained,Prepaid,0,No specific reason
+458,20.0,2024-04-02,Churned,Prepaid,0,Better offers from competitors
+459,31.0,2024-04-03,Churned,Postpaid,1,Not satisfied with the plan
+460,22.0,2024-04-04,Retained,Prepaid,0,Network issues
+461,32.0,2024-04-05,Churned,Postpaid,1,Poor customer service
+462,2.0,2024-04-06,Churned,Prepaid,0,Not satisfied with the plan
+463,17.0,2024-04-07,Retained,Prepaid,0,Network issues
+464,24.0,2024-04-08,Churned,Prepaid,0,Network issues
+465,41.0,2024-04-09,Churned,Postpaid,0,Network issues
+466,,2024-04-10,Retained,Postpaid,0,Moving to a different location
+467,53.0,2024-04-11,Retained,Postpaid,0,Moving to a different location
+468,57.0,2024-04-12,Retained,Prepaid,0,Network issues
+469,2.0,2024-04-13,Retained,Prepaid,0,No specific reason
+470,39.0,2024-04-14,Retained,Postpaid,1,Moving to a different location
+471,45.0,2024-04-15,Retained,Postpaid,0,Better offers from competitors
+472,23.0,2024-04-16,Churned,Postpaid,0,Network issues
+473,49.0,2024-04-17,Retained,Postpaid,0,Better offers from competitors
+474,31.0,2024-04-18,Retained,Postpaid,1,Better offers from competitors
+475,46.0,2024-04-19,Retained,Postpaid,0,Network issues
+476,21.0,2024-04-20,Retained,Prepaid,1,Poor customer service
+477,22.0,2024-04-21,Churned,Postpaid,0,No specific reason
+478,1.0,2024-04-22,Retained,Prepaid,0,Network issues
+479,26.0,2024-04-23,Retained,Prepaid,0,Network issues
+480,41.0,2024-04-24,Retained,Postpaid,1,Moving to a different location
+481,1.0,2024-04-25,Churned,Postpaid,0,Network issues
+482,25.0,2024-04-26,Churned,Prepaid,0,Poor customer service
+483,16.0,2024-04-27,Retained,Postpaid,0,Moving to a different location
+484,39.0,2024-04-28,Retained,Postpaid,0,Service is too expensive
+485,32.0,2024-04-29,Retained,Prepaid,1,Service is too expensive
+486,,2024-04-30,Retained,Prepaid,0,Better offers from competitors
+487,42.0,2024-05-01,Retained,Prepaid,1,No specific reason
+488,53.0,2024-05-02,Retained,Postpaid,0,Better offers from competitors
+489,47.0,2024-05-03,Retained,Prepaid,0,Poor customer service
+490,38.0,2024-05-04,Retained,Postpaid,0,Not satisfied with the plan
+491,28.0,2024-05-05,Churned,Prepaid,0,No specific reason
+492,41.0,2024-05-06,Retained,Prepaid,0,Service is too expensive
+493,54.0,2024-05-07,Retained,Prepaid,0,Better offers from competitors
+494,25.0,2024-05-08,Retained,Postpaid,0,Service is too expensive
+495,34.0,2024-05-09,Retained,Postpaid,1,Poor customer service
+496,49.0,2024-05-10,Churned,Prepaid,1,Poor customer service
+497,24.0,2024-05-11,Retained,Prepaid,1,Not satisfied with the plan
+498,23.0,2024-05-12,Retained,Prepaid,1,Not satisfied with the plan
+499,12.0,2024-05-13,Churned,Postpaid,0,Moving to a different location
+500,59.0,2024-05-14,Retained,Prepaid,0,No specific reason
+501,57.0,2024-05-15,Retained,Postpaid,0,Poor customer service
+502,6.0,2024-05-16,Churned,Prepaid,0,Better offers from competitors
+503,56.0,2024-05-17,Retained,Prepaid,0,Service is too expensive
+504,35.0,2024-05-18,Retained,Prepaid,0,Network issues
+505,44.0,,Churned,Prepaid,0,Not satisfied with the plan
+506,19.0,2024-05-20,Retained,Prepaid,0,Network issues
+507,0.0,2024-05-21,Retained,Prepaid,0,Better offers from competitors
+508,7.0,2024-05-22,Retained,Postpaid,0,Not satisfied with the plan
+509,45.0,2024-05-23,Churned,Prepaid,0,Network issues
+510,15.0,2024-05-24,Retained,Postpaid,0,No specific reason
+511,13.0,2024-05-25,Retained,Prepaid,0,Better offers from competitors
+512,11.0,2024-05-26,Retained,Prepaid,0,Service is too expensive
+513,50.0,2024-05-27,Retained,Postpaid,1,No specific reason
+514,22.0,2024-05-28,Retained,Prepaid,0,Better offers from competitors
+515,14.0,2024-05-29,Retained,Postpaid,0,Moving to a different location
+516,27.0,2024-05-30,Retained,Postpaid,1,Not satisfied with the plan
+517,33.0,2024-05-31,Retained,Prepaid,0,Poor customer service
+518,1.0,2024-06-01,Retained,Postpaid,0,Service is too expensive
+519,31.0,2024-06-02,Retained,Postpaid,0,No specific reason
+520,22.0,2024-06-03,Retained,Prepaid,0,No specific reason
+521,21.0,2024-06-04,Retained,Postpaid,0,Network issues
+522,50.0,2024-06-05,Churned,Prepaid,0,Not satisfied with the plan
+523,24.0,2024-06-06,Retained,Prepaid,1,Poor customer service
+524,57.0,2024-06-07,Retained,Prepaid,0,Better offers from competitors
+525,21.0,2024-06-08,Retained,Prepaid,0,Poor customer service
+526,57.0,,Churned,Postpaid,0,Not satisfied with the plan
+527,57.0,2024-06-10,Churned,Prepaid,0,Not satisfied with the plan
+528,21.0,2024-06-11,Retained,Prepaid,0,Moving to a different location
+529,48.0,2024-06-12,Retained,Postpaid,0,Moving to a different location
+530,51.0,2024-06-13,Churned,Prepaid,1,Poor customer service
+531,41.0,2024-06-14,Retained,Prepaid,0,Better offers from competitors
+532,5.0,2024-06-15,Retained,Postpaid,0,Poor customer service
+533,14.0,2024-06-16,Retained,Postpaid,0,Not satisfied with the plan
+534,53.0,2024-06-17,Retained,Postpaid,0,Not satisfied with the plan
+535,42.0,,Churned,Postpaid,0,Network issues
+536,59.0,2024-06-19,Churned,Postpaid,0,Moving to a different location
+537,36.0,2024-06-20,Retained,Postpaid,0,Network issues
+538,32.0,2024-06-21,Retained,Postpaid,0,Service is too expensive
+539,7.0,2024-06-22,Churned,Prepaid,1,Not satisfied with the plan
+540,,2024-06-23,Churned,Postpaid,0,Network issues
+541,59.0,2024-06-24,Retained,Postpaid,1,Poor customer service
+542,43.0,2024-06-25,Churned,Postpaid,0,Moving to a different location
+543,43.0,2024-06-26,Churned,Prepaid,0,Moving to a different location
+544,4.0,2024-06-27,Churned,Prepaid,0,Better offers from competitors
+545,38.0,2024-06-28,Retained,Postpaid,0,Poor customer service
+546,3.0,2024-06-29,Retained,Postpaid,0,Better offers from competitors
+547,5.0,2024-06-30,Churned,Postpaid,0,Network issues
+548,44.0,2024-07-01,Retained,Prepaid,0,No specific reason
+549,31.0,2024-07-02,Churned,Prepaid,0,Service is too expensive
+550,51.0,2024-07-03,Retained,Postpaid,0,Poor customer service
+551,29.0,2024-07-04,Retained,Prepaid,1,Poor customer service
+552,46.0,2024-07-05,Retained,Postpaid,0,Poor customer service
+553,34.0,2024-07-06,Retained,Prepaid,0,Better offers from competitors
+554,54.0,2024-07-07,Churned,Prepaid,0,Network issues
+555,39.0,2024-07-08,Churned,Postpaid,1,Poor customer service
+556,51.0,2024-07-09,Churned,Postpaid,1,No specific reason
+557,15.0,2024-07-10,Retained,Postpaid,0,Poor customer service
+558,12.0,2024-07-11,Retained,Postpaid,0,Moving to a different location
+559,49.0,2024-07-12,Retained,Prepaid,0,Service is too expensive
+560,59.0,2024-07-13,Retained,Prepaid,0,Moving to a different location
+561,41.0,2024-07-14,Retained,Prepaid,0,Moving to a different location
+562,29.0,2024-07-15,Retained,Postpaid,0,Service is too expensive
+563,18.0,2024-07-16,Retained,Prepaid,0,No specific reason
+564,16.0,2024-07-17,Retained,Postpaid,0,Network issues
+565,55.0,2024-07-18,Churned,Prepaid,1,Moving to a different location
+566,18.0,,Churned,Postpaid,0,Network issues
+567,27.0,2024-07-20,Retained,Postpaid,0,Moving to a different location
+568,57.0,2024-07-21,Retained,Prepaid,0,Not satisfied with the plan
+569,54.0,2024-07-22,Churned,Postpaid,1,Service is too expensive
+570,25.0,,Retained,Postpaid,0,Moving to a different location
+571,36.0,2024-07-24,Churned,Prepaid,1,Not satisfied with the plan
+572,25.0,2024-07-25,Churned,Postpaid,1,Better offers from competitors
+573,52.0,2024-07-26,Retained,Postpaid,0,Not satisfied with the plan
+574,22.0,2024-07-27,Retained,Postpaid,0,Poor customer service
+575,8.0,2024-07-28,Retained,Prepaid,1,Moving to a different location
+576,11.0,2024-07-29,Retained,Prepaid,0,Not satisfied with the plan
+577,52.0,2024-07-30,Retained,Postpaid,1,Network issues
+578,0.0,2024-07-31,Churned,Prepaid,1,Better offers from competitors
+579,57.0,2024-08-01,Retained,Postpaid,0,No specific reason
+580,57.0,2024-08-02,Retained,Postpaid,0,Moving to a different location
+581,0.0,2024-08-03,Churned,Postpaid,1,Poor customer service
+582,46.0,2024-08-04,Churned,Postpaid,0,No specific reason
+583,33.0,2024-08-05,Retained,Postpaid,0,Not satisfied with the plan
+584,31.0,2024-08-06,Retained,Prepaid,0,No specific reason
+585,53.0,2024-08-07,Retained,Postpaid,0,No specific reason
+586,47.0,2024-08-08,Retained,Prepaid,1,Better offers from competitors
+587,24.0,2024-08-09,Retained,Prepaid,1,No specific reason
+588,39.0,2024-08-10,Retained,Postpaid,0,No specific reason
+589,44.0,2024-08-11,Churned,Postpaid,0,Moving to a different location
+590,52.0,2024-08-12,Retained,Prepaid,0,Better offers from competitors
+591,0.0,2024-08-13,Churned,Prepaid,1,Poor customer service
+592,15.0,2024-08-14,Churned,Prepaid,0,Not satisfied with the plan
+593,38.0,2024-08-15,Retained,Postpaid,0,Better offers from competitors
+594,4.0,2024-08-16,Churned,Prepaid,0,Better offers from competitors
+595,21.0,2024-08-17,Retained,Postpaid,0,Service is too expensive
+596,28.0,2024-08-18,Churned,Postpaid,1,Better offers from competitors
+597,54.0,2024-08-19,Retained,Postpaid,0,Service is too expensive
+598,,2024-08-20,Retained,Prepaid,0,Not satisfied with the plan
+599,11.0,2024-08-21,Retained,Postpaid,0,No specific reason
+600,25.0,2024-08-22,Churned,Postpaid,1,Moving to a different location
+601,15.0,2024-08-23,Churned,Postpaid,0,Moving to a different location
+602,50.0,2024-08-24,Retained,Postpaid,0,Not satisfied with the plan
+603,36.0,2024-08-25,Churned,Postpaid,0,Not satisfied with the plan
+604,21.0,2024-08-26,Retained,Prepaid,1,Network issues
+605,56.0,2024-08-27,Retained,Postpaid,0,No specific reason
+606,28.0,2024-08-28,Retained,Postpaid,0,Not satisfied with the plan
+607,13.0,2024-08-29,Retained,Prepaid,0,Better offers from competitors
+608,27.0,2024-08-30,Retained,Postpaid,0,Moving to a different location
+609,4.0,2024-08-31,Churned,Prepaid,0,Poor customer service
+610,46.0,2024-09-01,Retained,Postpaid,1,Moving to a different location
+611,48.0,2024-09-02,Retained,Prepaid,0,Service is too expensive
+612,29.0,2024-09-03,Retained,Prepaid,0,Moving to a different location
+613,45.0,2024-09-04,Churned,Postpaid,0,Network issues
+614,51.0,2024-09-05,Churned,Postpaid,0,No specific reason
+615,4.0,2024-09-06,Retained,Postpaid,0,Not satisfied with the plan
+616,11.0,2024-09-07,Churned,Prepaid,1,No specific reason
+617,15.0,2024-09-08,Retained,Prepaid,0,Not satisfied with the plan
+618,25.0,2024-09-09,Churned,Prepaid,0,Moving to a different location
+619,25.0,2024-09-10,Retained,Postpaid,0,Poor customer service
+620,47.0,2024-09-11,Churned,Prepaid,0,Poor customer service
+621,20.0,2024-09-12,Retained,Prepaid,0,Network issues
+622,,2024-09-13,Retained,Postpaid,0,Service is too expensive
+623,35.0,2024-09-14,Churned,Prepaid,1,Moving to a different location
+624,32.0,2024-09-15,Retained,Prepaid,0,Not satisfied with the plan
+625,29.0,2024-09-16,Retained,Postpaid,0,Moving to a different location
+626,36.0,2024-09-17,Retained,Prepaid,1,Network issues
+627,22.0,2024-09-18,Retained,Postpaid,0,Better offers from competitors
+628,57.0,,Retained,Postpaid,0,Better offers from competitors
+629,9.0,2024-09-20,Retained,Postpaid,0,Network issues
+630,53.0,2024-09-21,Retained,Postpaid,0,Not satisfied with the plan
+631,4.0,2024-09-22,Retained,Postpaid,0,No specific reason
+632,35.0,2024-09-23,Churned,Prepaid,0,Network issues
+633,,2024-09-24,Retained,Prepaid,0,Not satisfied with the plan
+634,51.0,2024-09-25,Retained,Postpaid,1,Poor customer service
+635,30.0,2024-09-26,Retained,Postpaid,0,Network issues
+636,,2024-09-27,Retained,Prepaid,0,Not satisfied with the plan
+637,,2024-09-28,Churned,Postpaid,0,Network issues
+638,18.0,2024-09-29,Retained,Postpaid,0,Network issues
+639,57.0,2024-09-30,Retained,Postpaid,0,No specific reason
+640,31.0,2024-10-01,Churned,Prepaid,1,No specific reason
+641,0.0,2024-10-02,Churned,Prepaid,1,Not satisfied with the plan
+642,55.0,2024-10-03,Retained,Postpaid,0,Not satisfied with the plan
+643,4.0,2024-10-04,Churned,Postpaid,1,Service is too expensive
+644,44.0,2024-10-05,Churned,Prepaid,0,Network issues
+645,,2024-10-06,Retained,Prepaid,0,Better offers from competitors
+646,15.0,2024-10-07,Churned,Postpaid,0,Network issues
+647,23.0,2024-10-08,Churned,Postpaid,1,Network issues
+648,15.0,2024-10-09,Retained,Prepaid,0,Not satisfied with the plan
+649,54.0,2024-10-10,Retained,Prepaid,0,Network issues
+650,1.0,2024-10-11,Retained,Prepaid,1,Moving to a different location
+651,48.0,2024-10-12,Churned,Postpaid,0,Network issues
+652,27.0,2024-10-13,Churned,Prepaid,0,Moving to a different location
+653,31.0,2024-10-14,Retained,Postpaid,0,No specific reason
+654,26.0,2024-10-15,Retained,Prepaid,0,Better offers from competitors
+655,19.0,2024-10-16,Retained,Prepaid,0,Not satisfied with the plan
+656,23.0,2024-10-17,Retained,Prepaid,0,Network issues
+657,11.0,2024-10-18,Retained,Prepaid,0,Moving to a different location
+658,49.0,2024-10-19,Retained,Postpaid,1,Moving to a different location
+659,34.0,2024-10-20,Churned,Postpaid,0,No specific reason
+660,59.0,2024-10-21,Retained,Prepaid,0,Moving to a different location
+661,32.0,2024-10-22,Churned,Postpaid,0,Poor customer service
+662,32.0,2024-10-23,Retained,Prepaid,0,Service is too expensive
+663,50.0,2024-10-24,Retained,Prepaid,0,Better offers from competitors
+664,42.0,2024-10-25,Retained,Prepaid,0,No specific reason
+665,36.0,2024-10-26,Retained,Prepaid,0,No specific reason
+666,,2024-10-27,Churned,Postpaid,0,Network issues
+667,2.0,2024-10-28,Retained,Prepaid,0,Poor customer service
+668,0.0,2024-10-29,Churned,Prepaid,0,Network issues
+669,32.0,2024-10-30,Retained,Postpaid,0,Network issues
+670,39.0,,Churned,Prepaid,0,Not satisfied with the plan
+671,9.0,2024-11-01,Retained,Prepaid,0,Not satisfied with the plan
+672,42.0,2024-11-02,Churned,Prepaid,0,Not satisfied with the plan
+673,43.0,2024-11-03,Churned,Postpaid,0,Poor customer service
+674,28.0,2024-11-04,Retained,Prepaid,1,Network issues
+675,12.0,2024-11-05,Retained,Postpaid,0,Service is too expensive
+676,11.0,2024-11-06,Churned,Prepaid,0,Better offers from competitors
+677,30.0,2024-11-07,Churned,Prepaid,1,Not satisfied with the plan
+678,45.0,2024-11-08,Retained,Postpaid,0,Not satisfied with the plan
+679,1.0,2024-11-09,Churned,Prepaid,0,No specific reason
+680,50.0,2024-11-10,Churned,Prepaid,0,Network issues
+681,49.0,2024-11-11,Churned,Postpaid,0,Network issues
+682,,2024-11-12,Churned,Postpaid,1,Poor customer service
+683,22.0,2024-11-13,Churned,Postpaid,0,Poor customer service
+684,16.0,2024-11-14,Retained,Postpaid,1,Not satisfied with the plan
+685,25.0,2024-11-15,Retained,Postpaid,0,Network issues
+686,7.0,2024-11-16,Retained,Prepaid,0,Service is too expensive
+687,28.0,2024-11-17,Churned,Postpaid,0,Better offers from competitors
+688,25.0,2024-11-18,Churned,Prepaid,0,Network issues
+689,9.0,2024-11-19,Retained,Prepaid,0,No specific reason
+690,25.0,2024-11-20,Churned,Prepaid,1,Network issues
+691,33.0,2024-11-21,Churned,Postpaid,0,Moving to a different location
+692,50.0,2024-11-22,Retained,Postpaid,0,Poor customer service
+693,40.0,2024-11-23,Retained,Prepaid,0,No specific reason
+694,6.0,2024-11-24,Retained,Postpaid,0,Better offers from competitors
+695,3.0,2024-11-25,Retained,Postpaid,0,Not satisfied with the plan
+696,57.0,2024-11-26,Retained,Postpaid,0,No specific reason
+697,52.0,2024-11-27,Retained,Postpaid,0,Network issues
+698,49.0,2024-11-28,Retained,Prepaid,0,Not satisfied with the plan
+699,44.0,2024-11-29,Retained,Prepaid,0,Network issues
+700,10.0,2024-11-30,Retained,Postpaid,1,Not satisfied with the plan
+701,28.0,2024-12-01,Retained,Prepaid,1,Better offers from competitors
+702,55.0,2024-12-02,Churned,Postpaid,0,Poor customer service
+703,35.0,2024-12-03,Retained,Postpaid,0,Better offers from competitors
+704,24.0,2024-12-04,Churned,Prepaid,1,Moving to a different location
+705,20.0,2024-12-05,Churned,Prepaid,0,Service is too expensive
+706,,2024-12-06,Retained,Prepaid,1,Poor customer service
+707,35.0,2024-12-07,Retained,Postpaid,0,Better offers from competitors
+708,9.0,2024-12-08,Retained,Prepaid,0,Moving to a different location
+709,36.0,2024-12-09,Retained,Postpaid,1,Service is too expensive
+710,8.0,2024-12-10,Retained,Prepaid,1,Moving to a different location
+711,23.0,2024-12-11,Retained,Prepaid,0,Network issues
+712,34.0,2024-12-12,Retained,Postpaid,0,Network issues
+713,48.0,2024-12-13,Retained,Postpaid,0,Not satisfied with the plan
+714,34.0,2024-12-14,Retained,Postpaid,0,Poor customer service
+715,47.0,2024-12-15,Retained,Postpaid,0,Network issues
+716,35.0,2024-12-16,Retained,Postpaid,0,No specific reason
+717,17.0,2024-12-17,Retained,Postpaid,1,Moving to a different location
+718,48.0,2024-12-18,Retained,Postpaid,0,Poor customer service
+719,38.0,2024-12-19,Churned,Postpaid,0,No specific reason
+720,31.0,2024-12-20,Retained,Prepaid,0,Network issues
+721,23.0,2024-12-21,Retained,Postpaid,0,Not satisfied with the plan
+722,22.0,2024-12-22,Retained,Postpaid,0,Better offers from competitors
+723,31.0,2024-12-23,Retained,Prepaid,0,Not satisfied with the plan
+724,36.0,2024-12-24,Churned,Postpaid,0,No specific reason
+725,11.0,2024-12-25,Churned,Prepaid,1,Service is too expensive
+726,48.0,2024-12-26,Retained,Prepaid,1,Network issues
+727,54.0,2024-12-27,Churned,Postpaid,0,No specific reason
+728,12.0,2024-12-28,Churned,Prepaid,1,Service is too expensive
+729,22.0,2024-12-29,Churned,Postpaid,0,Service is too expensive
+730,24.0,2024-12-30,Churned,Prepaid,0,Moving to a different location
+731,34.0,2024-12-31,Churned,Prepaid,0,Poor customer service
+732,40.0,2025-01-01,Retained,Prepaid,0,Moving to a different location
+733,29.0,2025-01-02,Retained,Postpaid,0,Network issues
+734,16.0,2025-01-03,Retained,Postpaid,1,Service is too expensive
+735,48.0,2025-01-04,Retained,Prepaid,0,No specific reason
+736,19.0,2025-01-05,Retained,Prepaid,1,Better offers from competitors
+737,47.0,2025-01-06,Retained,Postpaid,0,Service is too expensive
+738,24.0,2025-01-07,Retained,Postpaid,0,No specific reason
+739,21.0,2025-01-08,Churned,Prepaid,1,Better offers from competitors
+740,12.0,2025-01-09,Churned,Prepaid,0,Moving to a different location
+741,58.0,2025-01-10,Retained,Postpaid,0,Moving to a different location
+742,18.0,2025-01-11,Retained,Postpaid,0,Poor customer service
+743,48.0,2025-01-12,Churned,Postpaid,0,No specific reason
+744,35.0,2025-01-13,Retained,Postpaid,0,Service is too expensive
+745,11.0,2025-01-14,Churned,Postpaid,0,Not satisfied with the plan
+746,40.0,2025-01-15,Retained,Prepaid,0,Moving to a different location
+747,18.0,2025-01-16,Retained,Postpaid,1,Moving to a different location
+748,11.0,2025-01-17,Churned,Prepaid,0,Poor customer service
+749,8.0,2025-01-18,Retained,Postpaid,0,Better offers from competitors
+750,6.0,2025-01-19,Retained,Prepaid,0,Poor customer service
+751,27.0,2025-01-20,Churned,Postpaid,1,Service is too expensive
+752,13.0,2025-01-21,Retained,Postpaid,0,No specific reason
+753,30.0,2025-01-22,Retained,Prepaid,0,Network issues
+754,51.0,2025-01-23,Churned,Prepaid,0,Network issues
+755,18.0,2025-01-24,Retained,Postpaid,0,No specific reason
+756,57.0,2025-01-25,Churned,Postpaid,1,Better offers from competitors
+757,46.0,2025-01-26,Retained,Postpaid,0,Moving to a different location
+758,15.0,2025-01-27,Retained,Postpaid,0,Better offers from competitors
+759,52.0,2025-01-28,Retained,Postpaid,0,Moving to a different location
+760,4.0,2025-01-29,Retained,Prepaid,0,Moving to a different location
+761,34.0,2025-01-30,Churned,Prepaid,1,Network issues
+762,11.0,2025-01-31,Churned,Postpaid,1,Better offers from competitors
+763,24.0,2025-02-01,Retained,Prepaid,0,Poor customer service
+764,51.0,2025-02-02,Churned,Prepaid,1,Moving to a different location
+765,58.0,2025-02-03,Retained,Prepaid,0,Not satisfied with the plan
+766,20.0,2025-02-04,Retained,Postpaid,0,Not satisfied with the plan
+767,35.0,2025-02-05,Retained,Prepaid,0,Poor customer service
+768,52.0,2025-02-06,Retained,Postpaid,0,Not satisfied with the plan
+769,22.0,2025-02-07,Retained,Prepaid,0,Service is too expensive
+770,15.0,2025-02-08,Churned,Postpaid,1,Moving to a different location
+771,56.0,2025-02-09,Retained,Prepaid,0,Poor customer service
+772,38.0,2025-02-10,Retained,Postpaid,1,Better offers from competitors
+773,44.0,2025-02-11,Retained,Postpaid,0,Moving to a different location
+774,52.0,2025-02-12,Retained,Prepaid,1,Poor customer service
+775,41.0,2025-02-13,Churned,Postpaid,0,Network issues
+776,57.0,2025-02-14,Retained,Postpaid,0,Better offers from competitors
+777,38.0,2025-02-15,Retained,Postpaid,0,Network issues
+778,,2025-02-16,Retained,Postpaid,1,Moving to a different location
+779,30.0,,Retained,Postpaid,0,Better offers from competitors
+780,57.0,2025-02-18,Retained,Postpaid,1,Not satisfied with the plan
+781,4.0,2025-02-19,Retained,Postpaid,0,Poor customer service
+782,34.0,2025-02-20,Churned,Postpaid,0,Moving to a different location
+783,22.0,2025-02-21,Churned,Prepaid,1,Service is too expensive
+784,28.0,2025-02-22,Retained,Prepaid,0,Better offers from competitors
+785,42.0,2025-02-23,Retained,Postpaid,0,Better offers from competitors
+786,10.0,2025-02-24,Retained,Postpaid,0,No specific reason
+787,17.0,2025-02-25,Retained,Prepaid,1,Moving to a different location
+788,46.0,2025-02-26,Retained,Prepaid,0,Moving to a different location
+789,,2025-02-27,Retained,Prepaid,1,Network issues
+790,8.0,2025-02-28,Retained,Postpaid,0,No specific reason
+791,9.0,2025-03-01,Retained,Prepaid,1,Not satisfied with the plan
+792,57.0,2025-03-02,Retained,Postpaid,1,Network issues
+793,43.0,2025-03-03,Retained,Postpaid,0,No specific reason
+794,16.0,2025-03-04,Retained,Prepaid,0,Network issues
+795,,2025-03-05,Retained,Postpaid,0,Not satisfied with the plan
+796,6.0,2025-03-06,Retained,Postpaid,0,No specific reason
+797,45.0,2025-03-07,Churned,Postpaid,0,No specific reason
+798,12.0,2025-03-08,Retained,Postpaid,0,Service is too expensive
+799,39.0,2025-03-09,Churned,Prepaid,0,Network issues
+800,41.0,2025-03-10,Retained,Prepaid,0,Network issues
+801,8.0,2025-03-11,Churned,Postpaid,0,Better offers from competitors
+802,49.0,2025-03-12,Retained,Postpaid,0,Not satisfied with the plan
+803,26.0,2025-03-13,Churned,Prepaid,1,Poor customer service
+804,57.0,2025-03-14,Churned,Postpaid,0,Service is too expensive
+805,1.0,2025-03-15,Retained,Prepaid,0,No specific reason
+806,,2025-03-16,Retained,Postpaid,0,No specific reason
+807,,2025-03-17,Retained,Postpaid,1,No specific reason
+808,36.0,2025-03-18,Retained,Prepaid,1,Service is too expensive
+809,,2025-03-19,Retained,Prepaid,1,No specific reason
+810,18.0,2025-03-20,Retained,Prepaid,1,No specific reason
+811,7.0,2025-03-21,Retained,Prepaid,0,Not satisfied with the plan
+812,47.0,2025-03-22,Retained,Postpaid,1,Moving to a different location
+813,44.0,2025-03-23,Churned,Prepaid,0,Moving to a different location
+814,,2025-03-24,Retained,Postpaid,0,Better offers from competitors
+815,21.0,2025-03-25,Churned,Prepaid,1,Better offers from competitors
+816,51.0,2025-03-26,Retained,Prepaid,0,No specific reason
+817,16.0,2025-03-27,Retained,Postpaid,0,Not satisfied with the plan
+818,6.0,2025-03-28,Retained,Prepaid,0,No specific reason
+819,24.0,2025-03-29,Retained,Prepaid,0,Better offers from competitors
+820,44.0,2025-03-30,Churned,Prepaid,0,Service is too expensive
+821,3.0,2025-03-31,Retained,Prepaid,0,Service is too expensive
+822,35.0,2025-04-01,Churned,Postpaid,0,Poor customer service
+823,5.0,2025-04-02,Retained,Postpaid,0,Moving to a different location
+824,59.0,2025-04-03,Retained,Prepaid,1,Not satisfied with the plan
+825,30.0,2025-04-04,Retained,Prepaid,0,Network issues
+826,,2025-04-05,Retained,Prepaid,0,Moving to a different location
+827,,2025-04-06,Retained,Postpaid,1,Network issues
+828,53.0,2025-04-07,Retained,Postpaid,1,Poor customer service
+829,38.0,2025-04-08,Retained,Postpaid,0,Poor customer service
+830,26.0,2025-04-09,Retained,Postpaid,0,No specific reason
+831,,2025-04-10,Retained,Prepaid,1,Better offers from competitors
+832,25.0,2025-04-11,Retained,Prepaid,1,Poor customer service
+833,18.0,2025-04-12,Retained,Prepaid,0,Poor customer service
+834,38.0,2025-04-13,Retained,Postpaid,0,Network issues
+835,2.0,2025-04-14,Retained,Prepaid,0,Better offers from competitors
+836,44.0,2025-04-15,Retained,Postpaid,0,Poor customer service
+837,12.0,,Retained,Postpaid,0,Moving to a different location
+838,49.0,2025-04-17,Retained,Prepaid,0,Poor customer service
+839,27.0,2025-04-18,Retained,Prepaid,0,Better offers from competitors
+840,57.0,2025-04-19,Churned,Prepaid,0,No specific reason
+841,19.0,2025-04-20,Retained,Postpaid,0,Not satisfied with the plan
+842,27.0,2025-04-21,Retained,Postpaid,1,Better offers from competitors
+843,7.0,2025-04-22,Retained,Prepaid,0,Network issues
+844,40.0,2025-04-23,Retained,Prepaid,0,Not satisfied with the plan
+845,38.0,2025-04-24,Retained,Postpaid,1,Moving to a different location
+846,,2025-04-25,Retained,Prepaid,0,Service is too expensive
+847,2.0,2025-04-26,Churned,Postpaid,0,Better offers from competitors
+848,12.0,2025-04-27,Retained,Postpaid,0,No specific reason
+849,27.0,2025-04-28,Retained,Prepaid,0,Network issues
+850,,2025-04-29,Retained,Prepaid,1,Moving to a different location
+851,59.0,2025-04-30,Retained,Prepaid,0,Not satisfied with the plan
+852,48.0,2025-05-01,Retained,Prepaid,0,Moving to a different location
+853,24.0,2025-05-02,Retained,Postpaid,0,Better offers from competitors
+854,55.0,2025-05-03,Retained,Postpaid,0,Poor customer service
+855,32.0,2025-05-04,Churned,Postpaid,1,No specific reason
+856,37.0,2025-05-05,Retained,Prepaid,0,Better offers from competitors
+857,52.0,2025-05-06,Retained,Postpaid,0,Service is too expensive
+858,5.0,,Retained,Prepaid,0,Better offers from competitors
+859,57.0,2025-05-08,Retained,Prepaid,0,Not satisfied with the plan
+860,,2025-05-09,Retained,Prepaid,0,Not satisfied with the plan
+861,44.0,2025-05-10,Retained,Prepaid,0,Better offers from competitors
+862,31.0,2025-05-11,Churned,Prepaid,0,Not satisfied with the plan
+863,44.0,2025-05-12,Churned,Prepaid,0,Poor customer service
+864,,2025-05-13,Retained,Postpaid,0,Moving to a different location
+865,20.0,2025-05-14,Churned,Prepaid,0,Better offers from competitors
+866,15.0,2025-05-15,Retained,Postpaid,0,No specific reason
+867,53.0,2025-05-16,Retained,Postpaid,1,Poor customer service
+868,20.0,2025-05-17,Retained,Prepaid,0,Moving to a different location
+869,,2025-05-18,Churned,Prepaid,0,No specific reason
+870,59.0,2025-05-19,Retained,Prepaid,0,No specific reason
+871,36.0,2025-05-20,Retained,Postpaid,0,No specific reason
+872,35.0,2025-05-21,Retained,Prepaid,0,Moving to a different location
+873,34.0,2025-05-22,Retained,Postpaid,0,Poor customer service
+874,18.0,2025-05-23,Retained,Prepaid,0,No specific reason
+875,19.0,2025-05-24,Retained,Prepaid,0,No specific reason
+876,56.0,2025-05-25,Retained,Postpaid,1,Network issues
+877,17.0,,Retained,Postpaid,1,Better offers from competitors
+878,46.0,2025-05-27,Retained,Prepaid,0,Moving to a different location
+879,40.0,2025-05-28,Retained,Postpaid,0,Moving to a different location
+880,48.0,2025-05-29,Retained,Postpaid,0,Not satisfied with the plan
+881,,2025-05-30,Retained,Postpaid,0,Moving to a different location
+882,14.0,2025-05-31,Retained,Postpaid,1,Poor customer service
+883,30.0,2025-06-01,Retained,Postpaid,0,Moving to a different location
+884,0.0,2025-06-02,Retained,Prepaid,0,Network issues
+885,,2025-06-03,Churned,Prepaid,0,Better offers from competitors
+886,53.0,2025-06-04,Retained,Postpaid,0,Better offers from competitors
+887,53.0,2025-06-05,Retained,Prepaid,0,Moving to a different location
+888,2.0,2025-06-06,Retained,Prepaid,0,No specific reason
+889,15.0,2025-06-07,Retained,Postpaid,0,Service is too expensive
+890,22.0,2025-06-08,Retained,Prepaid,0,Service is too expensive
+891,56.0,2025-06-09,Retained,Postpaid,0,No specific reason
+892,10.0,2025-06-10,Retained,Postpaid,0,No specific reason
+893,11.0,2025-06-11,Retained,Prepaid,0,No specific reason
+894,9.0,,Churned,Postpaid,0,Poor customer service
+895,31.0,2025-06-13,Churned,Postpaid,0,Service is too expensive
+896,15.0,2025-06-14,Retained,Postpaid,0,No specific reason
+897,7.0,2025-06-15,Retained,Postpaid,0,Poor customer service
+898,37.0,2025-06-16,Churned,Postpaid,1,Not satisfied with the plan
+899,11.0,2025-06-17,Retained,Prepaid,0,Poor customer service
+900,23.0,2025-06-18,Retained,Prepaid,0,Service is too expensive
+901,27.0,2025-06-19,Churned,Postpaid,0,Moving to a different location
+902,52.0,2025-06-20,Retained,Postpaid,0,Not satisfied with the plan
+903,7.0,2025-06-21,Retained,Prepaid,0,Service is too expensive
+904,57.0,2025-06-22,Churned,Postpaid,0,Poor customer service
+905,27.0,2025-06-23,Retained,Prepaid,1,Network issues
+906,35.0,2025-06-24,Retained,Postpaid,0,Better offers from competitors
+907,25.0,2025-06-25,Retained,Postpaid,0,Service is too expensive
+908,7.0,2025-06-26,Churned,Postpaid,0,No specific reason
+909,57.0,2025-06-27,Churned,Postpaid,0,Poor customer service
+910,59.0,2025-06-28,Churned,Postpaid,1,No specific reason
+911,49.0,2025-06-29,Retained,Postpaid,0,No specific reason
+912,27.0,2025-06-30,Churned,Postpaid,0,No specific reason
+913,27.0,2025-07-01,Churned,Prepaid,1,No specific reason
+914,36.0,2025-07-02,Retained,Prepaid,0,No specific reason
+915,40.0,2025-07-03,Churned,Prepaid,0,Not satisfied with the plan
+916,35.0,2025-07-04,Churned,Postpaid,0,Service is too expensive
+917,26.0,2025-07-05,Retained,Postpaid,0,Service is too expensive
+918,53.0,2025-07-06,Retained,Postpaid,0,Better offers from competitors
+919,16.0,2025-07-07,Retained,Postpaid,0,Poor customer service
+920,8.0,2025-07-08,Retained,Postpaid,0,Network issues
+921,32.0,2025-07-09,Retained,Postpaid,0,Not satisfied with the plan
+922,52.0,2025-07-10,Retained,Postpaid,0,Poor customer service
+923,,2025-07-11,Churned,Prepaid,0,Not satisfied with the plan
+924,12.0,2025-07-12,Churned,Postpaid,0,Service is too expensive
+925,27.0,2025-07-13,Churned,Prepaid,0,No specific reason
+926,47.0,2025-07-14,Retained,Prepaid,0,Better offers from competitors
+927,28.0,2025-07-15,Retained,Postpaid,0,Better offers from competitors
+928,12.0,2025-07-16,Retained,Postpaid,0,Moving to a different location
+929,45.0,2025-07-17,Retained,Prepaid,0,Network issues
+930,34.0,2025-07-18,Churned,Prepaid,1,Better offers from competitors
+931,5.0,2025-07-19,Churned,Postpaid,0,No specific reason
+932,17.0,2025-07-20,Retained,Postpaid,0,Service is too expensive
+933,50.0,2025-07-21,Churned,Prepaid,0,Network issues
+934,4.0,2025-07-22,Churned,Postpaid,0,Poor customer service
+935,46.0,2025-07-23,Retained,Postpaid,0,No specific reason
+936,,2025-07-24,Churned,Postpaid,1,No specific reason
+937,1.0,2025-07-25,Retained,Prepaid,0,Better offers from competitors
+938,9.0,2025-07-26,Retained,Prepaid,0,Network issues
+939,55.0,2025-07-27,Retained,Prepaid,0,Service is too expensive
+940,29.0,2025-07-28,Retained,Postpaid,0,Moving to a different location
+941,49.0,2025-07-29,Retained,Postpaid,0,Not satisfied with the plan
+942,58.0,,Retained,Prepaid,0,Not satisfied with the plan
+943,44.0,2025-07-31,Retained,Prepaid,0,Service is too expensive
+944,,2025-08-01,Retained,Prepaid,0,Service is too expensive
+945,54.0,2025-08-02,Retained,Postpaid,0,Not satisfied with the plan
+946,55.0,2025-08-03,Retained,Prepaid,0,Moving to a different location
+947,,2025-08-04,Retained,Prepaid,1,Network issues
+948,53.0,2025-08-05,Retained,Postpaid,0,Not satisfied with the plan
+949,0.0,2025-08-06,Retained,Postpaid,1,Service is too expensive
+950,17.0,2025-08-07,Retained,Postpaid,0,Better offers from competitors
+951,31.0,2025-08-08,Retained,Prepaid,1,Poor customer service
+952,46.0,2025-08-09,Retained,Postpaid,1,Moving to a different location
+953,48.0,2025-08-10,Churned,Postpaid,0,No specific reason
+954,10.0,2025-08-11,Retained,Prepaid,0,Moving to a different location
+955,20.0,2025-08-12,Retained,Postpaid,0,Better offers from competitors
+956,,2025-08-13,Churned,Prepaid,1,Better offers from competitors
+957,24.0,2025-08-14,Churned,Prepaid,0,No specific reason
+958,21.0,2025-08-15,Churned,Postpaid,0,Service is too expensive
+959,58.0,2025-08-16,Churned,Postpaid,0,Not satisfied with the plan
+960,26.0,2025-08-17,Retained,Postpaid,1,Network issues
+961,48.0,2025-08-18,Retained,Postpaid,1,Moving to a different location
+962,12.0,2025-08-19,Retained,Postpaid,1,No specific reason
+963,32.0,2025-08-20,Retained,Postpaid,0,Moving to a different location
+964,33.0,2025-08-21,Retained,Prepaid,0,Better offers from competitors
+965,40.0,2025-08-22,Retained,Prepaid,0,Not satisfied with the plan
+966,34.0,2025-08-23,Retained,Postpaid,0,Moving to a different location
+967,0.0,2025-08-24,Churned,Prepaid,0,Network issues
+968,20.0,2025-08-25,Churned,Postpaid,0,Better offers from competitors
+969,47.0,2025-08-26,Retained,Prepaid,0,Network issues
+970,,2025-08-27,Churned,Prepaid,0,Not satisfied with the plan
+971,5.0,2025-08-28,Retained,Prepaid,1,Moving to a different location
+972,27.0,2025-08-29,Churned,Postpaid,0,Poor customer service
+973,16.0,2025-08-30,Retained,Prepaid,1,Moving to a different location
+974,4.0,2025-08-31,Churned,Postpaid,0,Not satisfied with the plan
+975,,2025-09-01,Retained,Prepaid,0,Moving to a different location
+976,4.0,2025-09-02,Retained,Prepaid,0,No specific reason
+977,37.0,,Retained,Prepaid,0,Moving to a different location
+978,2.0,2025-09-04,Retained,Prepaid,0,Service is too expensive
+979,52.0,2025-09-05,Retained,Prepaid,0,Moving to a different location
+980,22.0,2025-09-06,Retained,Postpaid,0,Moving to a different location
+981,36.0,2025-09-07,Retained,Postpaid,0,Network issues
+982,52.0,2025-09-08,Retained,Prepaid,0,Poor customer service
+983,36.0,2025-09-09,Retained,Prepaid,1,Network issues
+984,9.0,2025-09-10,Churned,Prepaid,0,Network issues
+985,9.0,2025-09-11,Retained,Prepaid,0,Better offers from competitors
+986,18.0,2025-09-12,Retained,Postpaid,0,Service is too expensive
+987,,2025-09-13,Retained,Prepaid,0,Network issues
+988,20.0,2025-09-14,Churned,Postpaid,0,No specific reason
+989,13.0,2025-09-15,Retained,Prepaid,0,Not satisfied with the plan
+990,,2025-09-16,Churned,Postpaid,1,No specific reason
+991,45.0,2025-09-17,Churned,Prepaid,0,Not satisfied with the plan
+992,0.0,2025-09-18,Retained,Prepaid,1,Moving to a different location
+993,50.0,2025-09-19,Retained,Postpaid,1,Better offers from competitors
+994,44.0,2025-09-20,Churned,Prepaid,0,Service is too expensive
+995,12.0,2025-09-21,Churned,Prepaid,0,No specific reason
+996,3.0,2025-09-22,Retained,Prepaid,1,Service is too expensive
+997,0.0,2025-09-23,Retained,Postpaid,0,No specific reason
+998,48.0,2025-09-24,Churned,Prepaid,0,Moving to a different location
+999,39.0,2025-09-25,Retained,Prepaid,1,Not satisfied with the plan
+1000,31.0,2025-09-26,Churned,Postpaid,0,Poor customer service
